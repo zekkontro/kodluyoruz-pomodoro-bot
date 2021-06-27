@@ -21,7 +21,7 @@ FFMPEG_OPTIONS = {'before_options': '-reconnect 1 -reconnect_streamed 1 -reconne
 
 
 
-TOKEN = "ODU4MDQ1NDA5NTk5ODE1NzEx.YNYbDw.MhuV6XRgzj5Rs2ujBIK8Y1ruQbY"
+TOKEN = ""
 
 version = '1.0.0'
 intents = discord.Intents.default()
