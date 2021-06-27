@@ -6,3 +6,5 @@
 ### Usage
 
     !yardim
+
+#### Not ffmpeg bilgisayarınızda kurulu olmalıdır
